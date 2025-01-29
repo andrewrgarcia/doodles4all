@@ -15,7 +15,7 @@ If you find content that **violates ethical guidelines, intellectual property la
 ## 3. **Usage Rights & Licensing**
 This dataset is **open-source** and made available for research and educational purposes.
 
-- **Dataset License:** The dataset is licensed under the [**Creative Commons Attribution 4.0 (CC BY 4.0)** License](LICENSE).  
+- **Dataset License:** The dataset is licensed under the [**Creative Commons Attribution 4.0 (CC BY 4.0) License**](LICENSE).  
   - **You may:** Use, modify, and distribute the dataset.  
   - **You must:** Provide proper attribution when using it in research or commercial applications.  
 
