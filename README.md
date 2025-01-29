@@ -1,4 +1,6 @@
-[](doodles4all.png)
+<p align="center">
+  <img src="doodles4all.png" alt="Doodles4All" width="200">
+</p>
 
 # Doodles4All: The Open Hand-Drawn Dataset
 
