@@ -6,7 +6,7 @@
 
 Welcome to Doodles4All, a community-driven dataset of hand-drawn images collected through [`Doodle Vision`](https://doodlevision.vercel.app/), an interactive web-based platform where users can draw and contribute labeled doodles for open machine learning research.
 
-**Legal & Terms of Use:** See [LEGAL.md](./LEGAL.md)  
+**Legal & Terms of Use:** See [LEGAL.md](./legal/LEGAL.md)  
 
 ## About Doodles4All
 Doodles4All is an **open dataset** designed to serve as a flexible alternative to datasets like MNIST and Quick, Draw! It allows:
@@ -26,7 +26,7 @@ You can submit your drawings **directly from [`Doodle Vision`](https://doodlevis
 2. Click on the **Download** button.
 3. Select "Yes, Submit and Download" when prompted by message. Your drawings will be added to this GitHub repo!
 
-For details on dataset format and usage, refer to [LEGAL.md](./LEGAL.md).
+For details on dataset format and usage, refer to [LEGAL.md](./legal/LEGAL.md).
 
 ## Feedback & Contributions
 
